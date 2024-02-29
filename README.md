@@ -173,3 +173,12 @@ Step 12: Navigate to Agent panel, selecct the Users tab and click on Add user.
 Step 13: Create a user email address and full name and click Add User. Create two different users.
 </p>
 <br />
+
+<p>
+<p align="center"> 
+<img src="https://i.postimg.cc/SQZ52F7K/temp-Image1m-JNHK.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+</p>
+<p>
+Step 14: Navigate back to the Admin panel, select the Mannage tab and select SLA.
+</p>
+<br />
