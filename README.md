@@ -182,3 +182,41 @@ Step 13: Create a user email address and full name and click Add User. Create tw
 Step 14: Navigate back to the Admin panel, select the Mannage tab and select SLA.
 </p>
 <br />
+
+<p>
+<p align="center"> 
+<img src="https://i.postimg.cc/SQZ52F7K/temp-Image1m-JNHK.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+</p>
+<p>
+Step 15: Select Add New SLA Plan and create three new SLLA plans with varying severity levels.
+</p>
+<br />
+
+<p>
+<p align="center"> 
+<img src="https://i.postimg.cc/SQZ52F7K/temp-Image1m-JNHK.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+</p>
+<p>
+Step 16: Create SLA plan 1 and name it SEV-A. Set the grace period to one hour on a 24/7 schedule and click Add  Plan.
+</p>
+<br />
+
+<p>
+<p align="center"> 
+<img src="https://i.postimg.cc/SQZ52F7K/temp-Image1m-JNHK.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+</p>
+<p>
+Step 17: Create SLA plan 2 and name it SEV-B. Set the grace period to four hours on a 24/7 schedule and click Add Plan.
+</p>
+<br />
+
+<p>
+<p align="center"> 
+<img src="https://i.postimg.cc/SQZ52F7K/temp-Image1m-JNHK.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+</p>
+<p>
+Step 18: Create SLA plan 3 and name it SEV-C. Set the grace period to eight hours on a Monday-Frieday, 8am-5pm with US Holidays schedule and click Add Plan.
+</p>
+<br />
+
+
