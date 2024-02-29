@@ -104,35 +104,32 @@ Step 6: Go to Agents tab and select the option to add a new agent.
 <br />
 
 <p>
-<p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_04ccb670e90845b6b78dabf67eb1e68f~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_27fabeaac1b84b2b8cd96108f1157011~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/XYZJcLHn/temp-Imagebg-Qxie.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p>
-Step 7: Name the team "Level II Support," add yourself as a team member, and click on "Create Team."
+Step 7: Fill out the name, email and username fields under the Account tab.
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_b576dc3bd91b4b66820cd60d252cec9c~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
-</p>
-<p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_7072d5577f7543b8acd0726202d6d051~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/V6YB651r/temp-Image-Nc3-MAc.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p>
-Step 8: Go to Agents and select the option to add new agents.
+Step 8: Select Set Password, choose a Password, uncheck "Send the agent a password reset email" and "Require password change at next login" and select "Set".
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_60562564faf741c193991fe22edc0d06~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/PJB9w1Sr/temp-Imagem22h6-X.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/VsT3pczQ/temp-Image-V05-QZc.avif
+" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p>
-Step 9: Fill out the text input fields under "Account" to add three new agents.
+Step 9: For user 1, on the Acccess Tab, select System Administrators under the Department menu, Senior Admin for the Role menu and navigate to the Teams tab, select Level II Support and click "Create".
 </p>
 <br />
 
@@ -141,7 +138,7 @@ Step 9: Fill out the text input fields under "Account" to add three new agents.
 <img src="https://static.wixstatic.com/media/2ebf04_fe23c182c7554a7bafc9b618fdd503e3~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p>
-Step 10: Click on "Set Password," then uncheck the option "Send the agent a password reset email."
+Step 10: Create a new agent and go thru the same password process as in Step 7. Select Support and View Only  under the Department menu, Senior Admin for the Role menu and Support under Extended Access. Click Create.
 </p>
 <br />
 
