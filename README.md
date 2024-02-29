@@ -125,8 +125,7 @@ Step 8: Select Set Password, choose a Password, uncheck "Send the agent a passwo
 <p>
 <p align="center"> 
 <img src="https://i.postimg.cc/PJB9w1Sr/temp-Imagem22h6-X.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
-<img src="https://i.postimg.cc/VsT3pczQ/temp-Image-V05-QZc.avif
-" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/VsT3pczQ/temp-Image-V05-QZc.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p>
 Step 9: For user 1, on the Acccess Tab, select System Administrators under the Department menu, Senior Admin for the Role menu and navigate to the Teams tab, select Level II Support and click "Create".
@@ -140,10 +139,37 @@ Step 9: For user 1, on the Acccess Tab, select System Administrators under the D
 <img src="https://i.postimg.cc/qRXrfZb8/temp-Imagepk-Nins.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p>
-Step 10: Create a new agent and go thru the same password process as in Step 7. Select Support and View Only  under the Department menu, Senior Admin for the Role menu and Support under Extended Access. Click Create.
+Step 10: Create a new agent and go thru the same password process as in Step 7. Select Support and View Only under the Department menu, Senior Admin for the Role menu and Support under Extended Access. Click Create.
 </p>
 <br />
 
+<p>
+<p align="center"> 
+<img src="https://i.postimg.cc/YSFkRSQD/temp-Imaged-R2k-RU.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/PxkHRk4X/temp-Image-ALl-BLn.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/qRXrfZb8/temp-Imagepk-Nins.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+</p>
+<p>
+Step 11: Create a new agent and go thru the same password process as in Step 7. Select Support and View Only  under the Department menu, Senior Admin for the Role menu and Support under Extended Access. Click Create.
+</p>
 <br />
-<p align="right"> Next: <a href="https://github.com/stevennocent/ticket-lifecycle"
->osTicket: Ticket Lifecycle Examples</a></p>
+
+<p>
+<p align="center"> 
+<img src="https://i.postimg.cc/ZKtxhqzG/temp-Image-Ho-I20-H.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/kgwQ8FRC/temp-Image8p-AADr.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+</p>
+<p>
+Step 12: Navigate to Agent panel, selecct the Users tab and click on Add user.
+</p>
+<br />
+
+<p>
+<p align="center"> 
+<img src="https://i.postimg.cc/KYHW2gbP/temp-Imagev5-Cdng.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/rmRPFFyv/temp-Image-Xzrn8m.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+</p>
+<p>
+Step 13: Create a user email address and full name and click Add User. Create two different users.
+</p>
+<br />
