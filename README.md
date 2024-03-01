@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial provides a comprehensive guide to the post-installation configuration procedures of the open-source help desk ticketing system, osTicket. Users can learn how to optimize their osTicket installation by configuring its various admin/agent settings, including roles, departments, ticket templates, and more.<br />
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -17,7 +17,7 @@ This tutorial provides a comprehensive guide to the post-installation configurat
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Establish a senior administrator position with appropriate role-based access control privileges and permissions.
+- Establish a senior administrator position with appropriate role-based access control to privileges and permissions.
 - Implement a new department for system administrators.
 - Configure one team responsible for level II support issues.
 - Create three agents with distinct roles and permissions based on their job requirements.
@@ -216,6 +216,41 @@ Step 17: Create SLA plan 2 and name it SEV-B. Set the grace period to four hours
 </p>
 <p>
 Step 18: Create SLA plan 3 and name it SEV-C. Set the grace period to eight hours on a Monday-Frieday, 8am-5pm with US Holidays schedule and click Add Plan.
+</p>
+<br />
+
+<p>
+<p align="center"> 
+<img src="https://i.postimg.cc/YqThCbZd/temp-Image-PJHv-D9.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+</p>
+<p>
+Step 19: In the Admin panel, select "Help Topics".
+</p>
+<br />
+
+<p>
+<p align="center"> 
+<img src="https://i.postimg.cc/SKhRWjy8/temp-Imageq43-Hq8.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+</p>
+<p>
+Step 20: Click on "Add New Help Topic".
+</p>
+<br />
+
+<p>
+<p align="center"> 
+<img src="https://i.postimg.cc/L81F3MvM/temp-Imagek-En-FZu.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/Y985C22Q/temp-Image-Pa-ET4c.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/7h6pGvbd/temp-Image5fgrx-E.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://i.postimg.cc/qq5W2m3R/temp-Imagek-MS9-FX.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+</p>
+<p>
+Step 21: Create four new topics and name them:<br>
+  1. Business Critical Outage<br>
+  2. Personal Computer Issues<br>
+  3. Equipment Reset<br>
+  4. Password Reset<br>
+Click on Add Topic to create.
 </p>
 <br />
 
