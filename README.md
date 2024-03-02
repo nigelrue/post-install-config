@@ -188,7 +188,7 @@ Step 14: Navigate back to the Admin panel, select the Mannage tab and select SLA
 <img src="https://i.postimg.cc/nr1NLPH8/temp-Image-XDKa-F9.avif" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p>
-Step 15: Select Add New SLA Plan and create three new SLLA plans with varying severity levels.
+Step 15: Select Add New SLA Plan and create three new SLA plans with varying severity levels.
 </p>
 <br />
 
